@@ -1,1 +1,1 @@
-https://skin-disease-detection.atlassian.net/jira/software/projects/SDD/boards/1/backlog?sprintCompleted
+https://skin-detection.atlassian.net/jira/software/projects/SD/boards/1/backlog
